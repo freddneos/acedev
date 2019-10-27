@@ -2,7 +2,7 @@
 
 https://pt.wikipedia.org/wiki/Cifra_de_C%C3%A9sar
 
-Encriptacao e desencriptacao de texto usando o algoritmo de Julio Cezar...
+Encriptacao e desencriptacao de texto usando o algoritmo da Cifra de Cezar...
 
 fique livre pra reduzir o numero de linhas de codigo e otimizar o que puder.
 
