@@ -1,11 +1,11 @@
 {
-  "name": "acedev",
+  "name": "acedev-julio-cezar",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Algoritmo de encriptacao e desemcriptacao de julio cezar",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Frederico Bezerra github (freddneos)",
   "license": "ISC"
 }
