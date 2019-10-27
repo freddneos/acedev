@@ -1,7 +1,7 @@
 {
   "name": "acedev-julio-cezar",
   "version": "1.0.0",
-  "description": "Algoritmo de encriptacao e desemcriptacao de julio cezar",
+  "description": "Algoritmo de encriptacao e desemcriptacao de julio cezar | https://pt.wikipedia.org/wiki/Cifra_de_C%C3%A9sar",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
